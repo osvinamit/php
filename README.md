@@ -1,2 +1,2 @@
 # php
-php code
+Examples of php file for coding standard.
